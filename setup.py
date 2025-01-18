@@ -17,7 +17,7 @@ setup(
     ],
     entry_points={
         "console_scripts": [
-            "img2scan2pdf=cli:main",
+            "img2scan2pdf=img2scan2pdf.cli:main",
         ],
     },
     classifiers=[
