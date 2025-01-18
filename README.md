@@ -62,7 +62,7 @@ pip install -r requirements.txt
 Run the tool locally:
 
 ```bash
-python -m image2pdf.cli -i <input_directory> -o <output_pdf_path>
+python -m img2scan2pdf.cli -i <input_directory> -o <output_pdf_path>
 ```
 
 ## Contributing
